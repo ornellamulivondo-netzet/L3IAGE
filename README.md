@@ -31,3 +31,4 @@
 | JAKISA     | UROMBI     | Dieu merci     |
 | KASOKI     | VUSARA     | Livya     |
 | KAVUGHO    | MASTAKI    | Léonce    |
+KAVIRA.         MULIVONDO  Ornella 
